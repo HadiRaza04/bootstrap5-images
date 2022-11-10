@@ -1,4 +1,4 @@
-# <a href="https://www.w3schools.com/bootstrap5/bootstrap_images.php" target="_blank"><h1>Bootstrap5-Images</h1></a>
+# <h1><a href="https://www.w3schools.com/bootstrap5/bootstrap_images.php" target="_blank">Bootstrap5-Images</a></h1>
 <h3>Some practice on image styles from <a href="https://www.w3schools.com/">w3schools</a>.</h3>
 
 1) The <b>.rounded</b> class adds rounded corners to an image.
